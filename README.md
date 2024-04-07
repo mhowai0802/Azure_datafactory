@@ -2,7 +2,7 @@
 
 ### Exercution steps ######
 
-1. open a datafactory
+1. Open a datafactory
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/datafactory_brief.png)
 Source
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/datafactory_source.png)
