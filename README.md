@@ -15,4 +15,4 @@ Destination \
 4. Set up Cloud Mssql server \
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/mssql_config.png)
 5. Cloud database information
-![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/cloud_image.png) 
+![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/cloud_table.png) 
