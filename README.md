@@ -4,13 +4,13 @@
 
 1. open a datafactory
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/datafactory_brief.png)
-  a. open a cluster in databricks
+Source
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/datafactory_source.png)
-3. open a storage account
+Destination
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/datafactory_sink.png)
-4. Run python script to take the data from stroage
+2. Download a dataset from Kaggle
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/kaggle_dataengineer.png)
-
+3. Set up local mysql server 
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/mysql_config.png)
-
+4. Set up cloud mssql server
 ![alt text](https://github.com/mhowai0802/Azure_datafactory/blob/main/pictures/mssql_config.png)
